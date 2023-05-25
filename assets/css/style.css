@@ -51,8 +51,12 @@ h4{
     text-align: center;
     text-transform: uppercase;
     letter-spacing: 4px;
-    color: red;
-    
+    color: red; 
+}
+
+
+h4 i{
+    color: gold;
 }
 
 p{
@@ -91,6 +95,11 @@ h5{
     color: #302727;
 }
   
+.q-page h2{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
   #pic{
     clear: both;
     line-height: 0;
