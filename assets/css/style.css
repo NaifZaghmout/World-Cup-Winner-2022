@@ -63,22 +63,30 @@ p{
 }
 
 footer{
-    background-color: rgb(138, 74, 74);
-    height: 200;
+    background-color: rgb(204, 10, 10);
+    height: 50px;
 }
 
 h5{
     text-align: center;
     font-size: large;
-    color: black;
+    color: rgb(234, 228, 228);
 }
 
-.media{
+.media {
+    text-align: center;
+
+}
+
+.media > li {
     display: inline;
 }
 
-.media{
+.media i {
     font-size: 160%;
-margin: 1%;
-padding: 5%;
-color: #3a3a3a;}
+    margin: 3%;
+    padding: 4%;
+    color: #302727;
+}
+  
+  
