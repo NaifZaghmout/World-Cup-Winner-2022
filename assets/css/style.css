@@ -74,6 +74,7 @@ h5{
 }
 
 .media {
+    
     text-align: center;
 
 }
@@ -83,10 +84,21 @@ h5{
 }
 
 .media i {
+    
     font-size: 160%;
     margin: 3%;
-    padding: 4%;
+    padding: 0%;
     color: #302727;
 }
   
-  
+  #pic{
+    clear: both;
+    line-height: 0;
+    column-count: 2;
+    column-gap: 0;
+  }
+
+  #pic > img{
+    width: 100%;
+
+  }
