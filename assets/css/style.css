@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,300&display=swap');
+  
+*{
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+body{
+    font-family: lato , sans-serif ;
+    font-weight: 300 ;
+    color: rgb(78, 13, 139);
+}
+
+
+.start{
+    font-family: lato, sans-serif;
+    text-transform: capitalize;
+    letter-spacing: 5px ;
+    text-align: center;
+    color: #dcd9e9;
+    background-color: rgb(204, 10, 10);
+}
+ 
+.fimage{
+    height: inherit;
+    width: auto;
+    overflow: hidden;
+    background: url('../images/30May-790x400-1.jpg');
+}
+
+
+ .menu{
+    text-align: center;
+    list-style-type: circle;
+    letter-spacing: 3px;
+ }
+
+
