@@ -180,3 +180,10 @@ footer{
  .google.map{
   width: 100%;
  }
+
+
+ #bold {
+  font-size: large;
+  font-style: italic;
+  color:rgb(74, 32, 113);
+ }
