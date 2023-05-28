@@ -12,7 +12,7 @@ body{
     color: rgb(78, 13, 139);
 }
 
-
+/* headeer h1, h2, image */
 .start{
     font-family: lato, sans-serif;
     text-transform: capitalize;
@@ -187,3 +187,31 @@ footer{
   font-style: italic;
   color:rgb(74, 32, 113);
  }
+
+
+ /* media queries */
+/* for large to medium screen size 1200 wid and down  */
+@media screen and( max-width: 1200px) {
+
+}
+
+
+  
+
+
+
+
+
+
+/* for medium screen size 950px wid and dowm */
+
+@media screen and(max-width: 950px) {
+  
+}
+
+
+
+
+
+ 
+
