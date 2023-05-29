@@ -88,7 +88,9 @@ p{
 }
 
 
-
+.comment1 , .comment2 , .comment3{
+  font-size: xx-large;
+}
 
 footer{
     background-color: rgb(204, 10, 10);
@@ -191,11 +193,12 @@ footer{
  
 
  /* media queries */
-/* for large to medium screen size 1200 wid and down  */
+/* for large to medium screen size 1450 wid and down  */
 @media screen and ( max-width: 1450px) {
 
+
   .fimage{
-    height: 480px;
+    height: 500px;
     width: 100%;
 }
 
@@ -208,17 +211,21 @@ footer{
 
   width: auto 0;
   height: 100%;
+  margin-top: 13px;
   
 }
 
 .container{
   width: 50%;
   margin: auto;
+  
+  
 }
 
 .comment1 , .comment2 , .comment3 {
-  width: 90%;
+  width: 100%;
   margin: auto;
+  font-size: 100px;
   
 }
   
@@ -245,27 +252,128 @@ footer{
 .center{
   width: 80%;
   margin: auto;
-}
-
-.google.map{
-  width: 100%;
-  margin: auto;
-}
-}
-
-
-
-
-
-/* for medium screen size 950px wid and dowm */
-
-@media screen and (max-width: 950px) {
   
 }
 
+table, th, td {
+  border: 2px solid;
+  width: 40%;
+  text-align: center;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: medium;
+  
+}
+
+table {
+  width: 50%;
+  color: #302727 ;
+}
+
+th {
+  height: 40px;
+}
+
+
+}
 
 
 
+
+
+/* for medium screen size 1024px wid and dowm */
+
+@media screen and (max-width: 1024px) {
+  
+  .fimage{
+    height: 335px;
+    width: 100%;
+}
+
+.start{
+  width: 100%;
+  height: 70%;
+}
+
+.menu{
+
+  width: auto 0;
+  height: 70%;
+  margin-top: 13px;
+  font-size: medium;
+  
+}
+
+.container{
+  width: 50%;
+  margin: auto;
+  font-size: small;
+  
+}
+
+.comment1 , .comment2 , .comment3 {
+  width: 100%;
+  margin: auto;
+  font-size: 100px;
+  
+}
+  
+.q-page{
+  width: auto ;
+  margin-bottom: 3%;
+}
+
+#pic{
+  width: 100%;
+  clear: both;
+  column-count: 2;
+  padding: 0;
+}
+
+.centerr{
+  width: 60%;
+
+}
+#bold{
+  width: 80%;
+  margin: auto;
+}
+.center{
+  width: 80%;
+  margin: auto;
+  
+}
+
+table, th, td {
+  border: 2px solid;
+  width: 40%;
+  text-align: center;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: medium;
+  
+}
+
+table {
+  width: 50%;
+  color: #302727 ;
+}
+
+th {
+  height: 40px;
+}
+
+
+}
+
+
+
+
+/* for medium screen size 425px wid and dowm */
+
+@media screen and (max-width: 425px) {
+
+
+  
+}
 
  
 
