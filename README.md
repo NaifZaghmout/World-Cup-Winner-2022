@@ -2,18 +2,18 @@
 
         
 
-# h1 World-Cup-Winner-2022
 
-## h2 The world cup winner festival 
+
+##  The world cup winner festival 
 
  The world cup winner festival website it is a website to invite the world to celebrate the football winner team in Qatar 2022 , this website is for all ages who wants to find out about the future football world cup activities and festivals.  
 
 ![Screenshot (46)](https://github.com/NaifZaghmout/World-Cup-Winner-2022/assets/131189190/7a3a68de-1c6e-40e1-b488-7305277bf3de)
 
 
-## h2 Features
+##  Features
 
-### h3 Navigathion
+###  Navigathion
 
  **bold text** The navigation  at the middle of the page under the main image , Home , Explore the city , event info it is a link to take you to different sctions of the website.
 the navigation clearly tells the website users the names of the sections and make it easy to move around .
@@ -23,7 +23,7 @@ sing up form allow useres to wirte Email and password to sing up.
 
 
 
-### h3 Home page
+###  Home page
 
 - Home page provide a titles and paragraphs with general information, titles have a purple background color 
 Titles are cover by Fontaosome icons 
@@ -32,14 +32,14 @@ Titles are cover by Fontaosome icons
 ![Screenshot (49)](https://github.com/NaifZaghmout/World-Cup-Winner-2022/assets/131189190/1f854f37-5f25-4cfb-ace5-bb34eef9f816)
 
 
-### h3 Explore The City page 
+###  Explore The City page 
 
 -  It is a page with the images to show the users the places of the hosting country 
 
 ![Screenshot (51)](https://github.com/NaifZaghmout/World-Cup-Winner-2022/assets/131189190/4e1a9bb7-8fba-44ad-a7b4-9dbc3972ea1b)
 
 
-### h3 Event info 
+###  Event info 
 
 - This page provide information for the event date , time , location .
 the time , date , location  wrriten in a box .
@@ -49,7 +49,7 @@ the google map location  will open in a diffrent page .
 ![Screenshot (53)](https://github.com/NaifZaghmout/World-Cup-Winner-2022/assets/131189190/8552527e-0c18-462b-931d-bda7e3aca582)
 
 
-## h2 Footer
+##  Footer
 
 - all the pages have a footer with socail media icons Facebook , YouTube , Instagram with red background all icons open in a new tab 
 
@@ -60,7 +60,7 @@ the google map location  will open in a diffrent page .
 
 
 
-## h2 testing 
+##  testing 
 
 - I tested that this is page works in different browsers , Chrome , Firefox , Safari 
 - I confirmed that this project responsive , looks good and functions on all standard screen sizes using devtools device toolbar 
@@ -68,7 +68,7 @@ the google map location  will open in a diffrent page .
 
 
 
- ## h2 bugs 
+ ##  bugs 
 
 - i was style in css my menu class and the css wasn’t response 
 
@@ -79,21 +79,23 @@ the google map location  will open in a diffrent page .
     i add the class="menu" to the > nav insted of the > ul
        
        
-       ## h2 Validator testing 
+       ##  Validator testing 
        
-       ## HTML 
+       ### HTML 
       - No errors were returned when passing through the official W3C validator  
-      ## CSS
+      ### CSS
        - No errors were returned when passing through the official (JIGSAW) validator 
+        ### Accessibility
+        
+
         
         
-        
-        ## h2  Unfixed Bugs 
+        ##   Unfixed Bugs 
         
        - No unfixed bugs
         
 
-        ## h2 Deployment 
+        ##  Deployment 
        1. This site was deployed to Github pages, The steps to deploy are as follows:
        2. In the Github repository , navigate to the Settings tab
         3. From the source section drop-down menu, select the main Branch 
