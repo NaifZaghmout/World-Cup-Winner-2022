@@ -79,28 +79,28 @@ Titles are cover by Fontaosome icons
     i add the class="menu" to the > nav insted of the > ul
        
        
-       ##  Validator testing 
+ ##  Validator testing 
        
-       ### HTML 
+   ### HTML 
       - No errors were returned when passing through the official W3C validator  
-      ### CSS
+   ### CSS
        - No errors were returned when passing through the official (JIGSAW) validator 
-        ### Accessibility
+ ### Accessibility
         
         
-      ![Screenshot (71)](https://github.com/NaifZaghmout/World-Cup-Winner-2022/assets/131189190/8a580378-6239-4d4e-a93e-d3882ce1cd1d)
+   ![Screenshot (71)](https://github.com/NaifZaghmout/World-Cup-Winner-2022/assets/131189190/8a580378-6239-4d4e-a93e-d3882ce1cd1d)
 
         
         
-        ##   Unfixed Bugs  
+   ##   Unfixed Bugs  
         
-       - No unfixed bugs
+   - No unfixed bugs
         
 
-        ##  Deployment 
+   ##  Deployment 
        1. This site was deployed to Github pages, The steps to deploy are as follows:
        2. In the Github repository , navigate to the Settings tab
-        3. From the source section drop-down menu, select the main Branch 
+       3. From the source section drop-down menu, select the main Branch 
        4.  Once the main branch has been selected , the page provide the link to the website 
         
        - The live link can be found here -  https://github.com/NaifZaghmout/World-Cup-Winner-2022/settings/pages
