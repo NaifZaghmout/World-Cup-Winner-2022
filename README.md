@@ -15,7 +15,7 @@
 
 ###  Navigathion
 
- **bold text** The navigation  at the middle of the page under the main image , Home , Explore the city , event info it is a link to take you to different sctions of the website.
+ - - The navigation  at the middle of the page under the main image , Home , Explore the city , event info it is a link to take you to different sctions of the website.
 the navigation clearly tells the website users the names of the sections and make it easy to move around .
 sing up form allow useres to wirte Email and password to sing up.
 
@@ -42,8 +42,8 @@ Titles are cover by Fontaosome icons
 ###  Event info 
 
 - This page provide information for the event date , time , location .
-the time , date , location  wrriten in a box .
-the google map location  will open in a diffrent page .
+- The time , date , location  wrriten in a box .
+- The google map location  will open in a diffrent page .
 
  .
 ![Screenshot (53)](https://github.com/NaifZaghmout/World-Cup-Winner-2022/assets/131189190/8552527e-0c18-462b-931d-bda7e3aca582)
@@ -51,7 +51,7 @@ the google map location  will open in a diffrent page .
 
 ##  Footer
 
-- all the pages have a footer with socail media icons Facebook , YouTube , Instagram with red background all icons open in a new tab 
+- All the pages have a Footer with socail media icons Facebook , YouTube , Instagram with red background all icons open in a new tab 
 
 
 ![Screenshot (58)](https://github.com/NaifZaghmout/World-Cup-Winner-2022/assets/131189190/eb67971c-77b5-4a97-974d-ef39559a2dd9)
@@ -60,17 +60,17 @@ the google map location  will open in a diffrent page .
 
 
 
-##  testing 
+##  Testing 
 
 - I tested that this is page works in different browsers , Chrome , Firefox , Safari 
 - I confirmed that this project responsive , looks good and functions on all standard screen sizes using devtools device toolbar 
-- i confirmed that the navigation , header , event info  text are readable and easy to understand 
+- T confirmed that the navigation , header , event info  text are readable and easy to understand 
 
 
 
- ##  bugs 
+ ##  Bugs 
 
-- i was style in css my menu class and the css wasn’t response 
+- I was style in css my menu class and the css wasn’t response 
 
  
             <ul class="menu">
@@ -101,6 +101,6 @@ the google map location  will open in a diffrent page .
         3. From the source section drop-down menu, select the main Branch 
        4.  Once the main branch has been selected , the page provide the link to the website 
         
-       - the live link can be found here -  https://github.com/NaifZaghmout/World-Cup-Winner-2022/settings/pages
+       - The live link can be found here -  https://github.com/NaifZaghmout/World-Cup-Winner-2022/settings/pages
         
 
