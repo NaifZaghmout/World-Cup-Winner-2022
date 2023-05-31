@@ -81,11 +81,11 @@ Titles are cover by Fontaosome icons
        
  ##  Validator testing 
        
-   #### - - HTML 
+   ####  HTML 
       - No errors were returned when passing through the official W3C validator  
-   #### - - CSS
+   ####  CSS
        - No errors were returned when passing through the official (JIGSAW) validator 
-   #### - - Accessibility
+   ####  Accessibility
         
         
    ![Screenshot (71)](https://github.com/NaifZaghmout/World-Cup-Winner-2022/assets/131189190/8a580378-6239-4d4e-a93e-d3882ce1cd1d)
@@ -103,7 +103,7 @@ Titles are cover by Fontaosome icons
        - From the source section drop-down menu, select the main Branch 
        -  Once the main branch has been selected , the page provide the link to the website 
         
-       - [The live link can be found here] (https://naifzaghmout.github.io/World-Cup-Winner-2022/)
+       - The live link can be found here  [World cup winner](https://naifzaghmout.github.io/World-Cup-Winner-2022/)
 
         
 
