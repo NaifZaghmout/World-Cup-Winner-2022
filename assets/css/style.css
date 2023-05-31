@@ -171,6 +171,12 @@ footer{
     background: #f1f1f1;
   }
 
+  .submit{
+    
+    font-size: x-large;
+    
+  }
+
  .centerr{
   display: block;
   margin-left: auto;
@@ -210,7 +216,7 @@ footer{
 
 .menu{
 
-  width: auto 0;
+  width: auto ;
   height: 100%;
   margin-top: 13px;
   
@@ -220,6 +226,12 @@ footer{
   width: 50%;
   margin: auto;
   
+  
+}
+
+.submit{
+    
+  font-size: x-large;
   
 }
 
@@ -302,7 +314,7 @@ th {
 
 .menu{
 
-  width: auto 0;
+  width: auto ;
   height: 70%;
   margin-top: 13px;
   font-size: medium;
@@ -396,7 +408,7 @@ th {
 
 .menu{
 
-  width: auto 0;
+  width: auto ;
   height: 70%;
   margin-top: 13px;
   font-size: 12px;
@@ -407,6 +419,12 @@ th {
   width: 50%;
   font-size: 10px;
   margin-right: 40%;
+  
+}
+
+.submit{
+    
+  font-size: xx-small;
   
 }
 
