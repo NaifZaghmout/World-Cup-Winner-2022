@@ -64,7 +64,7 @@ Titles are cover by Fontaosome icons
 
 - I tested that this is page works in different browsers , Chrome , Firefox , Safari 
 - I confirmed that this project responsive , looks good and functions on all standard screen sizes using devtools device toolbar 
-- T confirmed that the navigation , header , event info  text are readable and easy to understand 
+- I confirmed that the navigation , header , event info  text are readable and easy to understand 
 
 
 
@@ -88,11 +88,11 @@ Titles are cover by Fontaosome icons
         ### Accessibility
         
         
-        ![Screenshot (71)](https://github.com/NaifZaghmout/World-Cup-Winner-2022/assets/131189190/8a580378-6239-4d4e-a93e-d3882ce1cd1d)
+      ![Screenshot (71)](https://github.com/NaifZaghmout/World-Cup-Winner-2022/assets/131189190/8a580378-6239-4d4e-a93e-d3882ce1cd1d)
 
         
         
-        ##   Unfixed Bugs 
+        ##   Unfixed Bugs  
         
        - No unfixed bugs
         
