@@ -15,7 +15,7 @@
 
 ###  Navigathion
 
- - - The navigation  at the middle of the page under the main image , Home , Explore the city , event info it is a link to take you to different sctions of the website.
+  - The navigation  at the middle of the page under the main image , Home , Explore the city , event info it is a link to take you to different sctions of the website.
 the navigation clearly tells the website users the names of the sections and make it easy to move around .
 sing up form allow useres to wirte Email and password to sing up.
 
@@ -87,6 +87,8 @@ Titles are cover by Fontaosome icons
        - No errors were returned when passing through the official (JIGSAW) validator 
         ### Accessibility
         
+        
+        ![Screenshot (71)](https://github.com/NaifZaghmout/World-Cup-Winner-2022/assets/131189190/8a580378-6239-4d4e-a93e-d3882ce1cd1d)
 
         
         
