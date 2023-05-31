@@ -45,8 +45,9 @@ Titles are cover by Fontaosome icons
 - The time , date , location  wrriten in a box .
 - The google map location  will open in a diffrent page .
 
- .
-![Screenshot (53)](https://github.com/NaifZaghmout/World-Cup-Winner-2022/assets/131189190/8552527e-0c18-462b-931d-bda7e3aca582)
+ 
+ ![Screenshot (74)](https://github.com/NaifZaghmout/World-Cup-Winner-2022/assets/131189190/f706f2ac-7e16-4f04-9fdd-8237cc6cf393)
+
 
 
 ##  Footer
@@ -82,9 +83,9 @@ Titles are cover by Fontaosome icons
  ##  Validator testing 
        
    ####  HTML 
-      - No errors were returned when passing through the official W3C validator  
+   - No errors were returned when passing through the official W3C validator  
    ####  CSS
-       - No errors were returned when passing through the official (JIGSAW) validator 
+   - No errors were returned when passing through the official (JIGSAW) validator 
    ####  Accessibility
         
         
