@@ -108,3 +108,14 @@ Titles are cover by Fontaosome icons
 
         
 
+## Credits
+
+### Content
+- The codes for the Form taken from W3School
+- The information about the winner team was taken from Fifa
+
+
+
+## Media 
+-  images was taken from Google 
+- Google map links was taken from Google 
