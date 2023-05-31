@@ -1,9 +1,10 @@
 # World-Cup-Winner-2022
-The world cup winner festival 
+***The world cup winner festival 
 
 The world cup winner festival website it is a website to invite the world to celebrate the football winner team in Qatar 2022 , this website is for all ages who wants to find out about the future football world cup activities and festivals.  
 
 ![Screenshot (46)](https://github.com/NaifZaghmout/World-Cup-Winner-2022/assets/131189190/7a3a68de-1c6e-40e1-b488-7305277bf3de)
+
 
 **Features
 
@@ -83,7 +84,7 @@ i was style in css my menu class and the css wasn’t response
        i add the class="menu" to the nav insted of the <ul class="menu">
        
        
-       **Validator testing 
+       ***Validator testing 
        
        **HTML 
        No errors were returned when passing through the official W3C validator  
