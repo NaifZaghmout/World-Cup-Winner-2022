@@ -41,9 +41,9 @@ Titles are cover by Fontaosome icons
 
 ###  Event info 
 
-- This page provide information for the event date , time , location .
-- The time , date , location  wrriten in a box .
-- The google map location  will open in a diffrent page .
+- This page provide information for the event date , Time , Location .
+- The time , Date , Location  wrriten in a box .
+- The Google map location  will open in a diffrent page .
 
  
  ![Screenshot (74)](https://github.com/NaifZaghmout/World-Cup-Winner-2022/assets/131189190/f706f2ac-7e16-4f04-9fdd-8237cc6cf393)
@@ -65,7 +65,7 @@ Titles are cover by Fontaosome icons
 
 - I tested that this is page works in different browsers , Chrome , Firefox , Safari 
 - I confirmed that this project responsive , looks good and functions on all standard screen sizes using devtools device toolbar 
-- I confirmed that the navigation , header , event info  text are readable and easy to understand 
+- I confirmed that the navigation , Header , Event info  text are readable and easy to understand 
 
 
 
@@ -77,7 +77,7 @@ Titles are cover by Fontaosome icons
             <ul class="menu">
            
             
-    i add the class="menu" to the > nav insted of the > ul
+    I add the class="menu" to the > nav insted of the > ul
        
        
  ##  Validator testing 
@@ -112,7 +112,7 @@ Titles are cover by Fontaosome icons
 ## Credits
 
 ### Content
-- The codes for the Form taken from W3School
+- The codes for the Form was taken from W3School
 - The information about the winner team was taken from FIFA 
 
 
