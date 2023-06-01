@@ -89,7 +89,8 @@ Titles are cover by Fontaosome icons
    ####  Accessibility
         
         
-   ![Screenshot (71)](https://github.com/NaifZaghmout/World-Cup-Winner-2022/assets/131189190/8a580378-6239-4d4e-a93e-d3882ce1cd1d)
+   ![Screenshot (77)](https://github.com/NaifZaghmout/World-Cup-Winner-2022/assets/131189190/544d5d25-6587-467d-ba75-b9f6c01e5b24)
+
 
         
         
