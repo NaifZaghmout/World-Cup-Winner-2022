@@ -68,16 +68,6 @@ Titles are cover by Fontaosome icons
 - I confirmed that the navigation , Header , Event info  text are readable and easy to understand 
 
 
-
- ##  Bugs 
-
-- I was style in css my menu class and the css wasn’t response 
-
- 
-            <ul class="menu">
-           
-            
-    I add the class="menu" to the > nav insted of the > ul
        
        
  ##  Validator testing 
@@ -94,6 +84,19 @@ Titles are cover by Fontaosome icons
 
         
         
+
+##  Bugs 
+
+- I was style in css my menu class and the css wasn’t response 
+
+ 
+            <ul class="menu">
+           
+            
+    I add the class="menu" to the > nav insted of the > ul
+
+
+
   ##   Unfixed Bugs  
         
    - No unfixed bugs
