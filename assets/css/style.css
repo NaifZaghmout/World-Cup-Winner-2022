@@ -412,9 +412,9 @@ input[type=password] {
 
 
 
-/* for medium screen size 425px wid and dowm */
+/* for medium screen size 600px wid and dowm */
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 600px) {
 
 
   .fimage {
