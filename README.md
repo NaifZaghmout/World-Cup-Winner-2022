@@ -1,125 +1,155 @@
-# World-Cup-Winner-2022
+# _World Cup Winner 2022_
 
-        
+---
 
-
-
-##  The world cup winner festival 
-
- The world cup winner festival website it is a website to invite the world to celebrate the football winner team in Qatar 2022 , this website is for all ages who wants to find out about the future football world cup activities and festivals.  
-
-![Screenshot (46)](https://github.com/NaifZaghmout/World-Cup-Winner-2022/assets/131189190/7a3a68de-1c6e-40e1-b488-7305277bf3de)
-
-
-##  Features
-
-###  Navigathion
-
-  - The navigation  at the middle of the page under the main image , Home , Explore the city , event info it is a link to take you to different sctions of the website.
-the navigation clearly tells the website users the names of the sections and make it easy to move around .
-sing up form allow useres to wirte Email and password to sing up.
-
-![Screenshot (47)](https://github.com/NaifZaghmout/World-Cup-Winner-2022/assets/131189190/6547eb60-2adc-446a-b6b1-13328390e651)
+[World Cup Winner 2022](https://naifzaghmout.github.io/World-Cup-Winner-2022/) it is a website to invite the world to celebrate the football winner team in Qatar 2022 , this website is for all ages who wants to find out about the future football world cup activities and festivals.
 
 
 
-###  Home page
+![site on different devices](assets/images/media-sizes.png)
 
-- Home page provide a titles and paragraphs with general information, titles have a purple background color 
-Titles are cover by Fontaosome icons 
+---
 
+## Technologies used
 
-![Screenshot (49)](https://github.com/NaifZaghmout/World-Cup-Winner-2022/assets/131189190/1f854f37-5f25-4cfb-ace5-bb34eef9f816)
+- [HTML](https://en.wikipedia.org/wiki/HTML)
+- [CSS](https://en.wikipedia.org/wiki/CSS)
+- [Font Awesome icons](https://fontawesome.com/v5/search?o=r&m=free)
+- [Google fonts](https://fonts.google.com/)
 
+---
 
-###  Explore The City page 
+## User stories
 
--  It is a page with the images to show the users the places of the hosting country 
+- As a first time visitor, I want to understand of the website, so I can learn more about the school.
+- As a first time visitor, I want to be able to easily navigate through the website, so I can find the information I am looking for.
+- As a first time visitor, I want to see the information about the Festival and the city of the event.
+- As a first time visitor, I want to see the information about the winner team of the world cup.
+- As a person i want to join the event i want the location , time and date of the event.
+- As a mobile device user, I want the website to be responsive, so I can use my phone or tablet to visit it.
 
-![Screenshot (51)](https://github.com/NaifZaghmout/World-Cup-Winner-2022/assets/131189190/4e1a9bb7-8fba-44ad-a7b4-9dbc3972ea1b)
+---
 
+## Features
 
-###  Event info 
+### Home page
 
-- This page provide information for the event date , Time , Location .
-- The time , Date , Location  wrriten in a box .
-- The Google map location  will open in a diffrent page .
+- ##### Navigation
 
- 
- ![Screenshot (74)](https://github.com/NaifZaghmout/World-Cup-Winner-2022/assets/131189190/f706f2ac-7e16-4f04-9fdd-8237cc6cf393)
+  - Positioned at the top of the page.
+  - At the top-center there are navigation links:
+    - Home - leads to the home page.
+    - Expolre the city - leads to page where it showes images of the city.
+    - Event info - leads to the event info , location and date.
+  - The navigation is clear and easy to understand for the user.
+  - The navigation bar is responsive.
 
+  ![NavBar desktop](assets/images/nav-d.png)
+  ![NavBar mobile](assets/images/nav-m.png.png)
 
+---
 
-##  Footer
+- ##### Head section
+  - Head section have an image.
+    - It has the name of Fan Zone.
+      ![head section](assets/images/head-image.png.png)
 
-- All the pages have a Footer with socail media icons Facebook , YouTube , Instagram with red background all icons open in a new tab 
+---
 
+- ##### Home Page
+  - Contains info about the:
+   - THE WINNER TEAM [ARGENTINA](https://en.wikipedia.org/wiki/Argentina_national_football_team)
+   - ARGENTINA'S MANAGER FOR WORLD CUP [LIONEL-SCALONI'S](https://en.wikipedia.org/wiki/Lionel_Scaloni)
+   - ARGENTINA'S BEST PLAYER [Lionel-Messi](https://en.wikipedia.org/wiki/Lionel_Messi)
+    ![Home Page](assets/images/home-page.png.png)
 
-![Screenshot (58)](https://github.com/NaifZaghmout/World-Cup-Winner-2022/assets/131189190/eb67971c-77b5-4a97-974d-ef39559a2dd9)
+---
 
+- ##### Explore The City Page
 
+  - This sections contains 14 images.
+  - The images for the nices places in the city  .
 
+  ![Explore The City Page](assets/images/explore-image.png.png)
 
+---
 
-##  Testing 
+- ##### Event Info Page
 
-- I tested that this is page works in different browsers , Chrome , Firefox , Safari 
-- I confirmed that this project responsive , looks good and functions on all standard screen sizes using devtools device toolbar 
-- I confirmed that the navigation , Header , Event info  text are readable and easy to understand 
+  - This section shows the date , time and location for the event.
+  - This section contains a map location and Sing Up form.
+  
 
+  ![Event Info Page](assets/images/info-page.png.png)
 
-       
-       
- ##  Validator testing 
-       
-   ####  HTML 
-   - No errors were returned when passing through the official W3C validator  
-   ####  CSS
-   - No errors were returned when passing through the official (JIGSAW) validator 
-   ####  Accessibility
-        
-        
-   ![Screenshot (77)](https://github.com/NaifZaghmout/World-Cup-Winner-2022/assets/131189190/544d5d25-6587-467d-ba75-b9f6c01e5b24)
+---
 
+- ##### Footer
 
-        
-        
+  - Footer contains social media links that open in a new tab.
+  - Social media links are animated on hover.
 
-##  Bugs 
+  ![Footer](assets/images/footer.png.png)
 
-- I was style in css my menu class and the css wasn’t response 
-
- 
-            <ul class="menu">
-           
-            
-    I add the class="menu" to the > nav insted of the > ul
-
-
-
-  ##   Unfixed Bugs  
-        
-   - No unfixed bugs
-        
-
- ##  Deployment 
-   - - This site was deployed to Github pages, The steps to deploy are as follows:
-       - In the Github repository , navigate to the Settings tab
-       - From the source section drop-down menu, select the main Branch 
-       -  Once the main branch has been selected , the page provide the link to the website 
-        
-       - The live link can be found here  [World cup winner](https://naifzaghmout.github.io/World-Cup-Winner-2022/)
-
-        
-
-## Credits
-
-### Content
-- The codes for the Form was taken from W3School
-- The information about the winner team was taken from FIFA 
+---
 
 
 
-## Media 
--  images was taken from Google
-- Google map links was taken from Google 
+### Testing
+
+- I tested that the website works in different browsers: Chrome, Firefox, Brave.
+- I used devtools and [ Am-I-Responsive](https://ui.dev/amiresponsive) to confirm that the website is responsive, looks and functions as it supposed to on all standard screen sizes.
+- I tested all the links and confirmed that all of them work and lead where they suppose to lead.
+
+### Bugs
+
+- ##### Solved bugs
+ - I was style in css my menu class and the css wasn’t response :
+
+      ul class="menu"
+I add the class="menu" to the > nav insted of the > ul
+- ##### Unsolved bugs
+  - None.
+
+---
+
+### Validator testing
+
+- ##### HTML
+  - No errors or warnings were found when passing through the official W3C validator.
+  ![HTML-Validator](assets/images/html-tester.png)
+- ##### CSS
+  - No errors or warnings were found when passing through the official W3C (Jigsaw) validator.
+  ![CSS-Validator](assets/images/css-tester.png)
+- ##### Accessibility and performance
+  - Using lighthouse in devtools I confirmed that the website is performing well, accessible and colors and fonts chosen are readable.
+    ![Performance score](assets/images/performance.png.png)
+
+---
+
+### Deployment
+
+- This site was deployed to Github pages, The steps to deploy are as follows:
+
+- In the Github repository , navigate to the Settings tab
+
+- From the source section drop-down menu, select the main Branch
+
+- Once the main branch has been selected , the page provide the link to the website
+
+- Live link: [World-Cup-Winner-2022](https://naifzaghmout.github.io/World-Cup-Winner-2022/)
+
+---
+
+### Credits
+
+- ##### Content
+  - The codes for the Form was taken [from W3School](https://w3schools.com/)
+  - The information about the winner team was taken from [FIFA](https://www.fifa.com/fifaplus/en)
+- ##### Media
+  - images was taken from [Google](https://www.google.com/)
+  - Google map links was taken from [Google Map](https://www.google.com/maps)
+
+
+
+
