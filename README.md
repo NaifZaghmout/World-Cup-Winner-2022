@@ -43,8 +43,11 @@
     - Event info - leads to the event info , location and date.
   - The navigation is clear and easy to understand for the user.
   - The navigation bar is responsive.
-
+    
+    - NavBar desktop
    ![NavBar desktop](assets/images/nav-d.png)
+
+    - NavBar mobile
 
    ![NavBar mobile](assets/images/nav-m.png)
 
