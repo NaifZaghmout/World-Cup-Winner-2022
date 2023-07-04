@@ -46,7 +46,7 @@
 
    ![NavBar desktop](assets/images/nav-d.png)
 
-   ![NavBar mobile](assets/images/nav-m.png.png)
+   ![NavBar mobile](assets/images/nav-m.png)
 
 ---
 
@@ -54,7 +54,7 @@
   - Head section have an image.
     - It has the name of Fan Zone.
 
-     ![head section](assets/images/head-image.png.png)
+     ![head section](assets/images/head-image.png)
 
 ---
 
@@ -67,7 +67,7 @@
    - ARGENTINA'S BEST PLAYER [Lionel-Messi](https://en.wikipedia.org/wiki/Lionel_Messi)
 
 
-    ![Home Page](assets/images/home-page.png.png)
+    ![Home Page](assets/images/home-page.png)
 
 ---
 
@@ -76,7 +76,7 @@
   - This sections contains 14 images.
   - The images for the nices places in the city.
 
-  ![Explore The City Page](assets/images/explore-image.png.png)
+  ![Explore The City Page](assets/images/explore-image.png)
 
 ---
 
@@ -87,7 +87,7 @@
   
 
 
-  ![Event Info Page](assets/images/info-page.png.png)
+  ![Event Info Page](assets/images/info-page.png)
 
 ---
 
@@ -97,7 +97,7 @@
   - Social media links are animated on hover.
 
 
-  ![Footer](assets/images/footer.png.png)
+  ![Footer](assets/images/footer.png)
 
 ---
 
@@ -136,7 +136,7 @@ I add the class="menu" to the > nav insted of the > ul
 - ##### Accessibility and performance
   - Using lighthouse in devtools I confirmed that the website is performing well, accessible and colors and fonts chosen are readable.
 
-  ![Performance-score](assets/images/performance.png.png)
+  ![Performance-score](assets/images/performance.png)
 
 ---
 
@@ -162,7 +162,7 @@ I add the class="menu" to the > nav insted of the > ul
   - The information about the winner team was taken from [FIFA](https://www.fifa.com/fifaplus/en)
 - ##### Media
   - images was taken from [Google](https://www.google.com/)
-  
+
   - Google map links was taken from [Google Map](https://www.google.com/maps)
 
 
