@@ -1,15 +1,20 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,300&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,300&display=swap");
 
 * {
   margin: 0;
   padding: 0;
   border: none;
+  box-sizing: border-box;
 }
 
 body {
   font-family: lato, sans-serif;
   font-weight: 300;
+}
 
+main {
+  max-width: 1400px;
+  margin: auto;
 }
 
 /* headeer h1, h2, image */
@@ -24,31 +29,41 @@ body {
 }
 
 .fimage {
-  height: 500px;
+  height: 600px;
   width: 100%;
-
-
+  object-fit: cover;
 }
-
 
 .menu {
-
   text-align: center;
-  font-size: large;
+  font-size: x-large;
   letter-spacing: 4px;
-
-
 }
 
+.menu ul {
+  display: flex;
+  list-style: none;
+  justify-content: center;
+  align-items: center;
+  gap: 5em;
+}
 
+.menu ul li {
+  margin: 0 10px;
+  padding: 10px 0;
+  /* border: 1px solid black; */
+  width: 100%;
+}
+
+.menu .active {
+  text-decoration: underline;
+}
 
 h2 {
   font-family: lato, sans-serif;
   text-align: center;
   text-transform: capitalize;
-
 }
-
 
 h3 {
   font-size: xx-large;
@@ -57,7 +72,6 @@ h3 {
   text-transform: uppercase;
   letter-spacing: 3px;
   color: black;
-
 }
 
 h4 {
@@ -68,11 +82,9 @@ h4 {
   color: red;
 }
 
-
 h4 i {
   color: gold;
 }
-
 
 h5 {
   text-align: center;
@@ -88,9 +100,6 @@ p {
   color: black;
 }
 
-
-
-
 .comment1,
 .comment2,
 .comment3 {
@@ -101,9 +110,11 @@ footer {
   background-color: rgb(204, 10, 10);
   padding: 30px;
   letter-spacing: 3px;
-  
 }
 
+footer p {
+  font-size: x-large;
+}
 
 .media {
   margin: auto;
@@ -113,28 +124,26 @@ footer {
   padding: 10px;
 
   display: flex;
-  justify-content: center;
-
+  justify-content: space-between;
+  font-size: x-large;
   gap: 1em;
-
 }
-
 
 .q-page h2 {
   text-align: center;
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
 
 #pic {
   clear: both;
   line-height: 0;
-  column-count: 2;
+  column-count: 3;
   column-gap: 0;
+  margin-bottom: 3em;
 }
 
-#pic>img {
+#pic > img {
   width: 100%;
-
 }
 
 #li {
@@ -142,14 +151,13 @@ footer {
   float: left;
 }
 
-
 table,
 th,
 td {
   border: 1px solid;
   width: 40%;
   text-align: center;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
 
 table {
@@ -166,25 +174,29 @@ th {
   margin-right: auto;
 }
 
+.signup-form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 5em 0;
+}
 
-
-
-
-
-input[type=text],
-input[type=password] {
+input[type="email"],
+input[type="password"] {
   width: 100%;
   padding: 15px;
   margin: 5px 0 22px 0;
   display: inline-block;
   border: none;
   background: #f1f1f1;
+  border-radius: 5px;
 }
 
 .submit {
-
   font-size: x-large;
-
+  width: 5em;
+  margin-right: 1em;
+  border-radius: 5px;
 }
 
 .centerr {
@@ -197,9 +209,8 @@ input[type=password] {
 
 #map-embed {
   width: 100%;
-  height: 300px;
+  height: 400px;
 }
-
 
 #bold {
   font-size: large;
@@ -207,13 +218,9 @@ input[type=password] {
   color: rgb(74, 32, 113);
 }
 
-
-
 /* media queries */
 /* for large to medium screen size 1450 wid and down  */
 @media screen and (max-width: 1450px) {
-
-
   .fimage {
     height: 500px;
     width: 100%;
@@ -224,25 +231,21 @@ input[type=password] {
     height: 80%;
   }
 
-  .menu {
+  /* .menu {
 
     width: auto;
     height: 100%;
     margin-top: 13px;
 
-  }
+  } */
 
   .container {
     width: 50%;
     margin: auto;
-
-
   }
 
   .submit {
-
     font-size: x-large;
-
   }
 
   .comment1,
@@ -251,7 +254,6 @@ input[type=password] {
     width: 100%;
     margin: auto;
     font-size: 150px;
-
   }
 
   .q-page {
@@ -268,7 +270,6 @@ input[type=password] {
 
   .centerr {
     width: 60%;
-
   }
 
   #bold {
@@ -279,7 +280,6 @@ input[type=password] {
   .center {
     width: 80%;
     margin: auto;
-
   }
 
   table,
@@ -288,9 +288,9 @@ input[type=password] {
     border: 2px solid;
     width: 40%;
     text-align: center;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+      sans-serif;
     font-size: medium;
-
   }
 
   table {
@@ -302,22 +302,15 @@ input[type=password] {
     height: 40px;
   }
 
-
   #map-embed {
     width: 100%;
-    height: 300px;
+    /* height: 300px; */
   }
-
 }
-
-
-
-
 
 /* for medium screen size 1024px wid and dowm */
 
 @media screen and (max-width: 1024px) {
-
   .fimage {
     height: 335px;
     width: 100%;
@@ -328,20 +321,23 @@ input[type=password] {
     height: 70%;
   }
 
-  .menu {
+  /* .menu {
 
     width: auto;
     height: 70%;
     margin-top: 13px;
     font-size: medium;
 
+  } */
+
+  .menu ul {
+    gap: 0;
   }
 
   .container {
     width: 50%;
     margin: auto;
     font-size: small;
-
   }
 
   .comment1,
@@ -350,7 +346,6 @@ input[type=password] {
     width: 100%;
     margin: auto;
     font-size: 100px;
-
   }
 
   .q-page {
@@ -367,7 +362,6 @@ input[type=password] {
 
   .centerr {
     width: 60%;
-
   }
 
   #bold {
@@ -378,7 +372,6 @@ input[type=password] {
   .center {
     width: 80%;
     margin: auto;
-
   }
 
   table,
@@ -387,9 +380,9 @@ input[type=password] {
     border: 2px solid;
     width: 40%;
     text-align: center;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+      sans-serif;
     font-size: medium;
-
   }
 
   table {
@@ -401,54 +394,49 @@ input[type=password] {
     height: 40px;
   }
 
-
   #map-embed {
     width: 100%;
-    height: 200px;
+    /* height: 200px; */
   }
-
 }
-
-
-
 
 /* for medium screen size 600px wid and dowm */
 
 @media screen and (max-width: 600px) {
-
-
   .fimage {
     height: 300px;
     width: 100%;
   }
 
+  .menu ul {
+    flex-direction: column;
+  }
+
   .start {
     width: 100%;
     height: 10%;
-
   }
 
-  .menu {
+  /* .menu {
 
     width: auto;
     height: 70%;
     margin-top: 13px;
     font-size: 12px;
 
-  }
+  } */
 
   .container {
-    width: 50%;
-    font-size: 10px;
-    margin-right: 40%;
-
+    width: 100%;
+    /* font-size: 10px; */
+    /* margin-right: 40%; */
   }
 
-  .submit {
+  /* .submit {
 
     font-size: xx-small;
 
-  }
+  } */
 
   .comment1,
   .comment2,
@@ -456,13 +444,11 @@ input[type=password] {
     width: 98%;
     margin: auto;
     font-size: xx-small;
-
   }
 
   .q-page {
     width: auto;
     margin-bottom: 3%;
-
   }
 
   #pic {
@@ -473,8 +459,7 @@ input[type=password] {
   }
 
   .centerr {
-    width: 70%;
-
+    width: 100%;
   }
 
   #bold {
@@ -486,7 +471,6 @@ input[type=password] {
   .center {
     width: 80%;
     margin: auto;
-
   }
 
   table,
@@ -495,9 +479,9 @@ input[type=password] {
     border: 2px solid;
     width: 40%;
     text-align: center;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+      sans-serif;
     font-size: small;
-
   }
 
   table {
@@ -509,11 +493,24 @@ input[type=password] {
     height: 40px;
   }
 
-
   #map-embed {
     width: 100%;
-    height: 150px;
+    /* height: 150px; */
+  }
+}
 
+@media screen and (max-width: 350px) {
+  .submit {
+    font-size: large;
+    margin-right: 0.5em;
   }
 
+  .media {
+    width: 100%;
+    gap: 0;
+  }
+
+  #pic {
+    column-count: 1;
+  }
 }
